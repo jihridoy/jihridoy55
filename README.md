@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm JI Hridoy</h1>
-<h3 align="center">A web developer from Bangladesh</h3>
+### Hi there 👋, Hi, I'm Hridoy
+#### A web developer from Bangladesh
+![A web developer from Bangladesh](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/298197594_108282211987945_8763562725259264942_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFNsVkQ5lCN1gmF9tPlcJjzRnSA8aZopUFGdIDxpmilQetq36tFglw0KaoQ3IT7VWbwNQI2jC5xeeplMSct4XXt&_nc_ohc=bSKi9vtcX0cAX-w-oeg&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfDEFZLuwhFrK9D9KbTlnKvU2-PmMBftSJMmVGxmRjcxfg&oe=6523B227)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihridoy&label=Profile%20views&color=0e75b6&style=flat" alt="jihridoy" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihridoy" alt="jihridoy" /></a> </p>
+Skills:  REACT / JS / HTML / CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ji" height="30" width="40" /></a>
-<a href="https://instagram.com/jubayet_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jubayet_islam" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on Study 
+- 🌱 I’m currently learning Java Script 
+- 💬 Ask me about web development 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jihridoy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jihridoy" /></a><a href="https://ko-fi.com/jihridoy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jihridoy" /></a></p><br><br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jihridoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hridoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jubayet_islam/)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihridoy&show_icons=true&locale=en&layout=compact" alt="jihridoy" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihridoy)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihridoy&show_icons=true&count_private=true)  
+
